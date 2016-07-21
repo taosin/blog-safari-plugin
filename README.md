@@ -16,3 +16,4 @@ $.post('http://xxx/url', {
 
 到此就可以在safari的扩展位置出现插件标示了，你就可以快乐的使用了。
 
+forked from [Hades](https://github.com/iAmHades/blog-safari-plugin)
